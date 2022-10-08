@@ -52,8 +52,8 @@ To test the extension locally
 
 **Inputs**
 
-`Dutch`,`Portughese`,`English`,`Italian`,`French`,`Spanish`
+`Dutch`  `Portughese`  `English`  `Italian`  `French`  `Spanish`
 
 **Outputs**
 
-`Arabic`  `English ` `Chinese` `Dutch`  `Spanish`  `Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese`  `Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`  `Turkish`
+`Arabic`  `English `  `Chinese`  `Dutch`  `Spanish`  `Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese`  `Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`  `Turkish`
