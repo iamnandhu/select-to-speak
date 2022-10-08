@@ -56,4 +56,4 @@ To test the extension locally
 
 **Outputs**
 
-`Arabic`  `English `  `Chinese`  `Dutch`  `Spanish`  `Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese`  `Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`  `Turkish`
+`Arabic`  `English `   `Chinese`  `Dutch`  `Spanish`  `Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese`  `Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`  `Turkish`
