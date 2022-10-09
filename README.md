@@ -10,44 +10,44 @@ An NLP based chrome extension that processes the selected text on the screen and
 
 Install and configure Amplify CLI in your local machine - [Amplify](https://docs.amplify.aws/)
 
-Clone the project
+Clone the project:
 
 ```bash
-  git clone https://github.com/iamnandhu/select-to-speak.git
+ $ git clone https://github.com/iamnandhu/select-to-speak.git
 ```
 
-Go to the project directory
-
-```bash
-  cd select-to-speak
-```
-
-Install dependencies
+Go to the project directory:
 
 ```bash
-  npm install
+ $ cd select-to-speak
 ```
-Initialize new Amplify project
+
+Install dependencies:
 
 ```bash
-  amplify init
+ $ npm install
 ```
-Create the services
+Initialize new Amplify project:
 
 ```bash
-  amplify push --y
+ $ amplify init
 ```
-Build the extension
+Create the services:
 
 ```bash
-  npm run build
+ $ amplify push --y
 ```
-To test the extension locally
+Build the extension:
+
+```bash
+ $ npm run build
 ```
---Go to [Extensions](chrome://extensions)
---Enable Developer mode
---Click on Load unpacked and select the build folder
-```
+To test the extension locally:
+
+* Go to [Extensions](chrome://extensions)
+* Enable Developer mode
+* Click on Load unpacked and select the build folder
+
 ## Supported Languages
 
 **Inputs**
