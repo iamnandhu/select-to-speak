@@ -56,7 +56,11 @@ To test the extension locally:
 
 **Outputs**
 
-`Arabic`  `English `  `Dutch`  `Spanish` `Chinese`
-`Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese` 
-`Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`
+`Arabic`  `English `  `Dutch`  `Spanish` `Chinese` <br />
+`Portugese`  `Danish`  `Hindi`  `Italian`  `Japanese` <br />
+`Korean`  `Norwegian`  `Polish`  `Russian`  `Swedish`<br />
 `Turkish`
+
+
+
+
